@@ -1,0 +1,6 @@
+framework module Pods_gil_ruiyang_tumblrTests {
+  umbrella header "Pods-gil_ruiyang_tumblrTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
